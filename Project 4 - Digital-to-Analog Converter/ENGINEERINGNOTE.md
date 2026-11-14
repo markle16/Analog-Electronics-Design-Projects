@@ -2,7 +2,9 @@
 
 Designed, built, and experimentally characterized a **3-bit digital-to-analog converter (DAC)** using a binary-weighted resistor network and two operational-amplifier stages. The breadboard prototype produced eight distinct, monotonically increasing output levels, with a measured full-scale output of **4.345 V** compared with the theoretical **4.375 V**.
 
-Completed for **ELECENG 2EI4 — Electronic Devices & Circuits I** at McMaster University, Winter 2026.
+Completed for **ECE 2EI4 — Microelectronic Devices & Circuits I** at McMaster University, Winter 2026.
+
+_All figures can be found in the .pdf report file_
 
 ## Motivation
 
