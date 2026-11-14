@@ -1,5 +1,5 @@
 # Welcome to my Analog Electronics Design Showcase!
-This repository showcases five projects completed of the course **ECE 2EI4 - Microelectronics Circuits & Devices I** at McMaster University: a DC power supply, an  unity-gain amplifier, transistor-level logic gate, and a data converter.
+This repository showcases four projects completed of the course **ECE 2EI4 - Microelectronics Circuits & Devices I** at McMaster University: a DC power supply, an  unity-gain amplifier, transistor-level logic gate, and a data converter.
 
 The motivation behind these projects was to connect classroom theory with practical circuit design, exploring how diodes, transistors, and operational amplifiers can be used to build functional electronic systems. Together, the projects cover power conversion and regulation, transistor switching, signal amplification, CMOS logic, and digital-to-analog conversion.
 
