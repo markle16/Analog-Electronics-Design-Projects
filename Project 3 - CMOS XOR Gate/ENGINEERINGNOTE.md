@@ -4,6 +4,8 @@ Designed, built, and tested a **CMOS XOR gate** using complementary PMOS and NMO
 
 Completed for **ELECENG 2EI4 — Electronic Devices & Circuits I** at McMaster University, Winter 2026.
 
+_All figures can be found in the project report .pdf file_
+
 ## Motivation
 
 Logic gates are the building blocks of digital systems, but their behaviour depends on the analog characteristics of the transistors implementing them. This project explored that connection by translating an XOR Boolean expression into a physical CMOS circuit.
